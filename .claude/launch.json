@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "fossilvr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8887"], "port": 8887 }
+  ]
+}
